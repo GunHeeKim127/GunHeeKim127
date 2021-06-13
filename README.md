@@ -1,16 +1,24 @@
-### Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**GunHeeKim127/GunHeeKim127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕하세요 ...를 꿈꾸고 있는 개발자 입니다. 
 
-Here are some ideas to get you started:
+사용 가능한 언어 
+- Java
+- C
+- C++ 
+- Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front 
+- Html
+- Css
+- JavaScript
+- jQuery
+- C# 
+
+Back 
+- Spring
+- Node
+
+DB 
+- MariaDB
+- Mysql 
